@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jardesc>
+<jar path="E:/Store/Store.jar"/>
+<options buildIfNeeded="true" compress="true" descriptionLocation="/Store v2/resources/JarDescription.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" useSourceFolders="false"/>
+<manifest generateManifest="false" manifestLocation="/Store v2/resources/MANIFEST.MF" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+<sealing sealJar="true">
+<packagesToSeal/>
+<packagesToUnSeal/>
+</sealing>
+</manifest>
+<selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+<javaElement handleIdentifier="=Store v2/&lt;com.nova.provider.gui"/>
+<javaElement handleIdentifier="=Store v2/&lt;com.nova.purchase.gui"/>
+<javaElement handleIdentifier="=Store v2/&lt;com.nova.shared.table"/>
+<javaElement handleIdentifier="=Store v2/&lt;com.nova.shared.form.log"/>
+<javaElement handleIdentifier="=Store v2/&lt;com.nova.customer.gui"/>
+<javaElement handleIdentifier="=Store v2/&lt;com.nova.shared.security"/>
+<javaElement handleIdentifier="=Store v2/&lt;com.nova.shared.form.dat"/>
+<javaElement handleIdentifier="=Store v2/&lt;com.nova.shared.math"/>
+<javaElement handleIdentifier="=Store v2/&lt;com.nova.stock.gui"/>
+<javaElement handleIdentifier="=Store v2/&lt;com.nova.purchase.log"/>
+<javaElement handleIdentifier="=Store v2/&lt;com.nova.parameter"/>
+<javaElement handleIdentifier="=Store v2/&lt;resources.locale"/>
+<javaElement handleIdentifier="=Store v2/&lt;com.nova.sale.gui"/>
+<javaElement handleIdentifier="=Store v2/&lt;com.nova.shared.internationalization"/>
+<javaElement handleIdentifier="=Store v2/&lt;com.nova.customer.log"/>
+<javaElement handleIdentifier="=Store v2/&lt;com.nova.stock.kardex.gui"/>
+<javaElement handleIdentifier="=Store v2/&lt;com.nova.look.submodules"/>
+<javaElement handleIdentifier="=Store v2/&lt;com.nova.quote.log"/>
+<javaElement handleIdentifier="=Store v2/&lt;com.nova.shared.inputCheckers"/>
+<javaElement handleIdentifier="=Store v2/&lt;com.nova.provider.log"/>
+<javaElement handleIdentifier="=Store v2/&lt;com.nova.sale.log"/>
+<javaElement handleIdentifier="=Store v2/&lt;com.nova.look.modules"/>
+<javaElement handleIdentifier="=Store v2/&lt;com.nova.core"/>
+<file path="/Store v2/resources/parameter.properties"/>
+<javaElement handleIdentifier="=Store v2/&lt;com.nova.shared.form.gui"/>
+<javaElement handleIdentifier="=Store v2/&lt;com.nova.look"/>
+<javaElement handleIdentifier="=Store v2/&lt;com.nova.stock.kardex.log"/>
+<javaElement handleIdentifier="=Store v2/&lt;com.nova.shared.command"/>
+<javaElement handleIdentifier="=Store v2/&lt;com.nova.shared.submodule"/>
+<javaElement handleIdentifier="=Store v2/&lt;com.nova.stock.log"/>
+<javaElement handleIdentifier="=Store v2/&lt;com.nova.quote.gui"/>
+<javaElement handleIdentifier="=Store v2/&lt;com.nova.shared.quick"/>
+</selectedElements>
+</jardesc>
